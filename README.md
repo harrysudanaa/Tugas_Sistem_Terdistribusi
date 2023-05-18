@@ -1,1 +1,1 @@
-# Tugas_Sistem_Terdistribusi
+Repository untuk tugas sistem terdistribusi
